@@ -1,0 +1,12 @@
+{
+	"Category" : "iCore",
+	"Description" : "A configurable search and selection portal",
+	"Features" : 
+	[
+		"Portal view with instant search",
+		"Highlights search parameter in search results",
+		"Record user selections"
+	],
+	"Optimized" : [ "Desktop", "Tablet", "Mobile", "Web" ],
+	"Title" : "Portal"
+}
