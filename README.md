@@ -10,6 +10,12 @@
 - Search results show highlighted search criteria using a calculated format
 - Search results can be selected or deselected for providing user input
 
-## Demo
 ## Installation
-## Getting Started
+**Place the downloaded Encoder folder in your FileMaker Add-Ons directory:**
+
+   Mac: ~/Library/Application Support/FileMaker/Extensions/AddonModules
+   
+   Win: ~\\AppData\\Local\\FileMaker\\Extensions\\AddonModules
+
+  1. Restart FileMaker Pro, then install Encoder from the Add-Ons tab in Layout Mode.
+
